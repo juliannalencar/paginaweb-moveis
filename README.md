@@ -1,25 +1,28 @@
-# Projeto de Introdução ao HTML e CSS
+<h1 align="center"> Loja de móveis costumizados </h1>
+
+<p align="center">
+  <img alt="projeto loja de móveis" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+- Figma
+
+## 💻 Projeto
 
 Este repositório contém meu projeto de aprendizado de HTML e CSS como parte do curso de desenvolvedora FullStack ministrado pela Rocketseat. O projeto consiste em uma página web para uma empresa fictícia que vende móveis personalizados, focando na aplicação prática dos fundamentos das tecnologias de desenvolvimento web.
 
 ## Visão Geral
 
-O objetivo deste projeto é praticar as habilidades de HTML e CSS aprendidas durante o curso, criando uma página que seja tanto funcional quanto atraente. Este é um dos primeiros passos no mundo do desenvolvimento web, e estou empolgado para compartilhar esse começo.
+O objetivo deste projeto é praticar as habilidades de HTML e CSS aprendidas durante o curso, criando uma página que seja tanto funcional quanto atraente. Este é um dos primeiros passos no mundo do desenvolvimento web, e estou empolgada para compartilhar esse começo.
 
-## Tecnologias Utilizadas
+## 🔖 Layout
 
-- **HTML**: Estrutura da página web.
-- **CSS**: Estilização e design responsivo.
-
-## Aprendizados
-
-Alguns dos conceitos-chave que eu pratiquei com este projeto incluem:
-
-- Estruturação de documentos HTML usando elementos semânticos.
-- Estilização de páginas web com CSS externo.
-- Implementação de layout responsivo com flexbox.
-- Importação e utilização de fontes externas.
-- Trabalhar com imagens e textos para criar um site visualmente agradável.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CVqlLecXjcaysV1goWgYOV/Explorer-Projeto-01-Copy?fuid=1301745258112043399). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## Como Visualizar o Projeto
 
